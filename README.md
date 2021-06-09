@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to go on large trips to anywhere where there´s nature
+- ⚡ About me: I love to go on large trips to anywhere where there´s plenty of nature, take long walks with my dogs, btw im a dog person 🤣. I like to read a lot about IT , latinamerican writers, philosophy , novels, etc.
 
 ### Languages and Tools:
 
