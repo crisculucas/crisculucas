@@ -1,5 +1,5 @@
 ### Hi there, I'm Lucas!
-## I'm working of Helpdesk at maycar sa currently.I like to describe myself as a Developer, Sports apassionate , Animal lover , and a student of all what life can teach us!!
+## I'm working of Helpdesk at maycar sa currently.I like to describe myself as a Developer, Sports apassionate , Animal lover , and a student of all what life can teach us!
 - 🔭 I’m on several proyects
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
