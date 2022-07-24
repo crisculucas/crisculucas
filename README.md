@@ -1,10 +1,8 @@
 ### Hi there, I'm Lucas!
-## I'm working of Helpdesk at maycar sa currently.I like to describe myself as a Developer, Sports apassionate , Animal lover , and a student of all what life can teach us!
-- 🔭 I’m on several proyects
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ About me: I love to go on large trips to anywhere where there´s plenty of nature, take long walks with my dogs, btw im a dog person 🤣. I like to read a lot about IT , latinamerican writers, philosophy , novels, etc.
+## I'm working as an Application Administrator for Valtech. I like everything related to Infraestructure, Software Development, Devops, InfoSec.
+- 👯 I’m looking to collaborate with open source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects, start to have more contributions on my github page, learn new technologies such as React!
+- ⚡ About me: I love to go on large trips to anywhere where there´s plenty of nature, take long walks with my dogs and enjoy good times with friends. I like to read a lot about IT , latinamerican writers, philosophy.
 
 ### Languages and Tools:
 
